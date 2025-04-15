@@ -15,6 +15,8 @@ Welcome to my digital playground — where bioinformatics, AI, and full-stack wi
 
 ## 🔬 Current Projects
 
+- **Evo2 Docker and Apptainer support**  
+  Adding docker and apptainer/Singularity support for Evo2
 - **Protein Structure Annotation Platform**  
   Building a web-based system to **upload, visualize, and annotate PDB files** using swipe-based gestures. Features include auto-rotation 3D viewers, annotation tracking, and CSV export.
 -  **Tail Fiber / DPO ML Pipelines**  
