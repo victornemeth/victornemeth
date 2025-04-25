@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Victor
 
-Welcome to my digital playground — where bioinformatics, AI, and full-stack wizardry collide. I work at the intersection of machine learning, cloud infrastructure, and web development, with a healthy dose of passion for automation, open-source, and all things Linux.
+Welcome to my digital playground — where bioinformatics, AI, and full-stack wizardry collide. I’m passionate about shaping the future where intelligent systems, distributed infrastructure, and intuitive web experiences come together — grounded in automation and open-source principles, running on Linux.
 
 ## 🧙 About Me
 
