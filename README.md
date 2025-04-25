@@ -15,7 +15,7 @@ Welcome to my digital playground — where bioinformatics, AI, and full-stack wi
 
 ## 🔬 Current Projects
 
-- **Tail Fiber / Tailspike detection tools**
+- **Tail Fiber / Tailspike detection tools**  
   Building tools to classify domains and proteins, focussing on receptor binding proteins.
 - **Evo2 Docker and Apptainer support**  
   Adding docker and apptainer/Singularity support for Evo2
