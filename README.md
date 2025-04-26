@@ -10,7 +10,8 @@ Welcome to my digital playground — where bioinformatics, AI, and full-stack wi
 
 - ## 🔧 Server Ops
 
-- Running multiple **GPU containers** on a Threadripper Pro system  
+- Running multiple **GPU containers** on a Threadripper Pro system
+- Multiple servers running Ubuntu Linux
 - Reverse proxies via Docker and Nginx for secure, remote access  
 
 ## 🔬 Current Projects
