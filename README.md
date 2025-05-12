@@ -5,6 +5,6 @@ Welcome to my digital playground — where bioinformatics, AI, and full-stack wi
 ## 🔬 Current Projects
 
 - **Tail Fiber / Tailspike detection tools**  
-  Building tools to classify domains and proteins, focussing on receptor binding proteins.
+  Building tools to classify domains and proteins, focussing on receptor binding proteins, currently experimenting with EVO2 for this task.
 - **Protein Structure Annotation Platform**  
   Building a web-based system to **upload, visualize, and annotate PDB files** using swipe-based gestures. Features include auto-rotation 3D viewers, annotation tracking, and CSV export.
